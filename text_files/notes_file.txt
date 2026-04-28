@@ -1,0 +1,1 @@
+{'date_of_first_login': '02.8.2024', 'password': '', 'window_color': 'black', 'notes_count': '2', 'notes_count_real': '1', 'note_1': {'title': '', 'text': ''}}
